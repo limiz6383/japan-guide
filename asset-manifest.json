@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/japan-guide/static/css/main.be377108.chunk.css",
-    "main.js": "/japan-guide/static/js/main.b22f41b3.chunk.js",
-    "main.js.map": "/japan-guide/static/js/main.b22f41b3.chunk.js.map",
-    "runtime-main.js": "/japan-guide/static/js/runtime-main.2078e306.js",
-    "runtime-main.js.map": "/japan-guide/static/js/runtime-main.2078e306.js.map",
-    "static/js/2.737b5d27.chunk.js": "/japan-guide/static/js/2.737b5d27.chunk.js",
-    "static/js/2.737b5d27.chunk.js.map": "/japan-guide/static/js/2.737b5d27.chunk.js.map",
-    "static/js/3.091694ec.chunk.js": "/japan-guide/static/js/3.091694ec.chunk.js",
-    "static/js/3.091694ec.chunk.js.map": "/japan-guide/static/js/3.091694ec.chunk.js.map",
+    "main.css": "/japan-guide/static/css/main.8136cb85.chunk.css",
+    "main.js": "/japan-guide/static/js/main.a0838d3a.chunk.js",
+    "main.js.map": "/japan-guide/static/js/main.a0838d3a.chunk.js.map",
+    "runtime-main.js": "/japan-guide/static/js/runtime-main.4cf76b0e.js",
+    "runtime-main.js.map": "/japan-guide/static/js/runtime-main.4cf76b0e.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/japan-guide/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.f9ee3dba.chunk.js": "/japan-guide/static/js/2.f9ee3dba.chunk.js",
+    "static/js/2.f9ee3dba.chunk.js.map": "/japan-guide/static/js/2.f9ee3dba.chunk.js.map",
+    "static/js/3.7b0d4837.chunk.js": "/japan-guide/static/js/3.7b0d4837.chunk.js",
+    "static/js/3.7b0d4837.chunk.js.map": "/japan-guide/static/js/3.7b0d4837.chunk.js.map",
     "index.html": "/japan-guide/index.html",
-    "static/css/main.be377108.chunk.css.map": "/japan-guide/static/css/main.be377108.chunk.css.map",
-    "static/js/2.737b5d27.chunk.js.LICENSE.txt": "/japan-guide/static/js/2.737b5d27.chunk.js.LICENSE.txt",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/japan-guide/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.8136cb85.chunk.css.map": "/japan-guide/static/css/main.8136cb85.chunk.css.map",
+    "static/js/2.f9ee3dba.chunk.js.LICENSE.txt": "/japan-guide/static/js/2.f9ee3dba.chunk.js.LICENSE.txt",
+    "static/media/Katsu_curry.c209ed40.png": "/japan-guide/static/media/Katsu_curry.c209ed40.png",
+    "static/media/Ramen.8879faf9.png": "/japan-guide/static/media/Ramen.8879faf9.png",
+    "static/media/Sushi.b216c913.png": "/japan-guide/static/media/Sushi.b216c913.png",
+    "static/media/Takoyaki.02abd316.png": "/japan-guide/static/media/Takoyaki.02abd316.png",
+    "static/media/attraction_icon.22be4d4a.png": "/japan-guide/static/media/attraction_icon.22be4d4a.png",
     "static/media/location.module.css": "/japan-guide/static/media/map.e51bdbb1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2078e306.js",
-    "static/js/2.737b5d27.chunk.js",
-    "static/css/main.be377108.chunk.css",
-    "static/js/main.b22f41b3.chunk.js"
+    "static/js/runtime-main.4cf76b0e.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.f9ee3dba.chunk.js",
+    "static/css/main.8136cb85.chunk.css",
+    "static/js/main.a0838d3a.chunk.js"
   ]
 }
